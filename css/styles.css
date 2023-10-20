@@ -1162,6 +1162,7 @@ img {
 
   @media screen and (max-width: 767px) {
     width: 288px;
+    height: 280px;
   }
 }
 .projects .item .link {
